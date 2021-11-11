@@ -1,0 +1,33 @@
+{
+  "totalParticipants": 807,
+  "tiers": {
+    "legendary": {
+      "count": 10,
+      "probablity": 1,
+      "ceiling": 3050,
+      "floor": 1621,
+      "participants": 10
+    },
+    "ancient": {
+      "count": 71.823,
+      "probability": 0.41769349651225934,
+      "ceiling": 1248,
+      "floor": 135,
+      "participants": 72
+    },
+    "rare": {
+      "count": 179.961,
+      "probability": 0.3389623307272131,
+      "ceiling": 131,
+      "floor": 30,
+      "participants": 180
+    },
+    "common": {
+      "count": 545.216,
+      "probability": 0.18524768165277614,
+      "ceiling": 30,
+      "floor": 1,
+      "participants": 545
+    }
+  }
+}
