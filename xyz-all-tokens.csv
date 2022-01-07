@@ -236,7 +236,7 @@
 "terra1pds8p...rk0zvh2m","xyz #1209",0,0,-3
 "terra1a3xa9...sx4sljgy","xyz #121",9,30,20
 "terra1g4umu...fjpvgfdz","xyz #1210",-717,-109,-745
-"terra1suvx3...f38wzzef","xyz #1211",1,13,19
+"terra1suvx3...f38wzzef","xyz #1211",-1,13,19
 "terra1nhv8v...maem0y5r","xyz #1212",2,8,16
 "terra1ut4pu...z85sjpsp","xyz #1213",100,10,10
 "terra17lgkg...63gm4r8v","xyz #1214",-784,-38,-279
@@ -2737,6 +2737,7 @@
 "terra1rh2cg...u6p5l6e9","xyz #3460",18,-368,-806
 "terra13m3kj...ya76m2ut","xyz #3461",441,990,789
 "terra12xcpa...perrj60y","xyz #3462",29,172,214
+"terra12xcpa...perrj60y","xyz #3463",972,-327,-288
 "terra1jdnjf...0s8tpsau","xyz #347",-904,-1,-838
 "terra1rnkm4...55uxjmvs","xyz #348",-862,979,172
 "terra1xvc39...ljrld8qx","xyz #349",-7,-7,-7
@@ -3177,7 +3178,7 @@
 "terra10py7v...0redxkjs","xyz #740",1,69,0
 "terra1pwtsp...tgwc4ct4","xyz #741",810,368,-585
 "terra122443...utnpue5g","xyz #742",26,2,87
-"terra1suvx3...f38wzzef","xyz #743",420,69,143
+"terra1suvx3...f38wzzef","xyz #743",420,69,-143
 "terra15fh5j...cjrm3zxx","xyz #744",1,1,14
 "terra13rnju...4xr6v70l","xyz #745",6,9,6
 "terra1prqmj...qqje3d55","xyz #746",500,500,-500
